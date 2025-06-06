@@ -1,0 +1,7 @@
+numpy
+torch
+torchvision
+tensorflow
+datasketch
+opencv-python
+matplotlib
